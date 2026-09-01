@@ -24,5 +24,4 @@ A console-based banking application developed using **Core Python**, designed to
 - Improving problem-solving and logical thinking
 
 ## 🔗 Author
-**Bhavesh Mulchandani**  
-GitHub: https://github.com/Bhavesh950
+Author: Nishant
